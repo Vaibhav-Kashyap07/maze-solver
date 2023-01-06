@@ -25,4 +25,4 @@ Breadth-first search (BFS) is a method for exploring a tree or graph. In a BFS, 
 
 <hr>
 
-##### Design inspired by [CS50ai](https://google.com)
+##### Design inspired by [CS50ai](https://www.edx.org/cs50)
